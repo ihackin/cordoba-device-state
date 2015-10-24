@@ -1,1 +1,1 @@
-# cordova location use tencent location SDK in app plugin for ios and android
+# cordova device state plugin for ios and android
