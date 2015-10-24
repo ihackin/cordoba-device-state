@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <plugin id="cn.jsfund.licaijie.devicestate" version="0.0.1" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
-    <name>Location</name>
-    <DESCRIPTION>location in app plugin for jiashi-licaijie</DESCRIPTION>
+    <name>DeviceState</name>
+    <DESCRIPTION>device state in app plugin for jiashi-licaijie</DESCRIPTION>
     <js-module name="devicestate" src="www/devicestate.js">
         <clobbers target="window.plugins.devicestate" />
     </js-module>
